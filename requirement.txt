@@ -1,0 +1,2 @@
+tkinter  # Standard library, no installation needed; included for clarity
+google-generativeai
